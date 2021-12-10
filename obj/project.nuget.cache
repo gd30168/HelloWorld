@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ic2WMvPiCZPjJ0nHkNhrE2m2Kz9eyi+goB8G98vM1xgKnG3Ejo7TsAyRgl88u6lUIEMDSFmfcFq9FKZlbHL8gA==",
+  "success": true,
+  "projectFilePath": "D:\\Forge-Sites\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\nicm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
